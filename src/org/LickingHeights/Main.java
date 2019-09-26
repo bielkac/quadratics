@@ -9,6 +9,9 @@ public class Main {
     String parabolaFacing;
 
     //todo initialize manually
+    a=5;
+    b=3;
+    c=1;
 
     //todo do calculations
 
