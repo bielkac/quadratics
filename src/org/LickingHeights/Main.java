@@ -14,6 +14,8 @@ public class Main {
     c=1;
 
     //todo do calculations
+    axisOfSymmetry = -b/(2*a);
+    discriminant = (b*b)-4*(a*c);
 
     //todo print results
 
