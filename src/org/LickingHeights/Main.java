@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
     //todo declare variables a,b,c,discriminant, axisOfSymmetry,parabolaFacing, x, y
+    double a,b,c,discriminant,axisOfSymmetry,x,y;
+    String parabolaFacing;
 
     //todo initialize manually
 
@@ -16,7 +18,7 @@ public class Main {
 
     //todo initialize scanner and redo the initialize area
 
-    //todo double check results     
+    //todo double check results
 
 
 
